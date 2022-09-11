@@ -9,10 +9,16 @@ url: https://kimoridojo.com
 
 navbar-links:
   About Us: "aboutus"
-  Resources:
+  About Aikido: 
+    - History of Aikido: "http://www.aikikai.or.jp/eng/aikido/about.html"
+    
+  Schools:
     - Kimori Nagoya(EN): "https://kimori-dojo.wixsite.com/aikido/english"
     - Kimori Nagoya(JP): "https://kimori-dojo.wixsite.com/aikido"
+    - Aikikai International(EN): "http://www.aikikai.or.jp/eng/index.html"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
+# OC Kimori?
+
   Contact Us: "contact"
 
 ################
