@@ -11,7 +11,7 @@ navbar-links:
   About Us: "aboutus"
   About Aikido: 
     - History of Aikido: "http://www.aikikai.or.jp/eng/aikido/about.html"
-    
+    # TODO: more about our training
   Schools:
     - Kimori Nagoya(EN): "https://kimori-dojo.wixsite.com/aikido/english"
     - Kimori Nagoya(JP): "https://kimori-dojo.wixsite.com/aikido"
@@ -27,7 +27,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/KimoriDojoIcon.webp"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
