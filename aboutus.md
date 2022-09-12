@@ -26,7 +26,7 @@ Eric "Rick" A. Roberts sensei, 4th dan.
 Eric Norige, 3rd dan.  
 : Eric started training Aikido in 2002 under Freeman Sensei of Three Rivers Aikido in St. Louis, MO and has trained in a variety of Aikikai styles including Tenshin and Birankai.  He joined Kimori dojo in 2014 and was honored with his 2nd and 3rd dan from Sawada Shihan. He most enjoys being upside down (midflight) and sharing this joy with others.
 
-# Inactive teachers
+# Notable past members
 
 ![Tony Lam](/assets/img/Lam.jpg){: height="250"}
 Tony Lam sensei, 3rd dan.  
