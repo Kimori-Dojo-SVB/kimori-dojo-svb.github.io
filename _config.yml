@@ -222,5 +222,6 @@ exclude:
   - README.md
   - LICENSE
   - Makefile
+  - vendor
 
 plugins: [jekyll-paginate]
