@@ -5,7 +5,7 @@ title: About Us
 # Technical Lineage
 
 ![Sawada Toshiharu](/assets/img/Sawada.jpg)
-Sawada Toshiharu shihan, 7th dan 
+Sawada Toshiharu shihan, 8th dan 
 : Sawada-shihan began his Aikido training in 1965 after entering university.  He trained under the guidance of Kazuo Chiba shihan, Norihiko Ichihashi shihan and Nobuyuki Watanabe shihan.  Aikido Kimori Dojo was established on the 20th of January 2002 in Nagoya Japan.
 
 ![Matsuoka Hiroshi](/assets/img/Matsuoka.jpg)
