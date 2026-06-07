@@ -2,7 +2,23 @@
 title: Contact Us
 ---
 
-Please fill out this form or email <kimoridojo@gmail.com> to contact us and we'll get back to you within 24 hours.
+# Get in Touch
+
+Have questions about Aikido or Kimori Dojo? We'd love to hear from you! Whether you're interested in joining, want to observe a class, or just have questions, please reach out.
+
+## Quickest Ways to Contact Us
+
+**Email:** <kimoridojo@gmail.com>
+
+**Facebook:** [@kimoridojo](https://facebook.com/kimoridojo)
+
+We typically respond to inquiries within 24 hours.
+
+---
+
+## Contact Form
+
+Please fill out the form below and we'll get back to you shortly.
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xzbwdoag" method="post">
   <fieldset id="fs-frm-inputs">

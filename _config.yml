@@ -9,6 +9,9 @@ url: https://kimoridojo.com
 
 navbar-links:
   About Us: "aboutus"
+  Classes & Training: "classes"
+  For Beginners: "beginners"
+  FAQ: "faq"
   About Aikido: 
     - History of Aikido: "https://aikikai.or.jp/eng/aikido/"
     - Aikikai International: "https://aikikai.or.jp/eng/"
