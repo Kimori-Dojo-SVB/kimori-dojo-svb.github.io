@@ -14,10 +14,6 @@ Matsuoka Hiroshi sensei, 6th dan
 
 # Active members
 
-![Sae Yamada](/assets/img/Yamada.jpg){: height="250"}
-Sae Yamada, 5th dan
-:  Sae began her Aikido journey under Jun Yamada Shihan in Sarawak, Malaysia back in 1982.  While attending Keio University (Shonan Fujisawa Campus) in Tokyo in 1993, she established the Aikido Club. In 2018, Sae joined Kimori Dojo upon migrating to the States.
-
 ![Rick Roberts](/assets/img/Roberts.jpg){: height="250"}
 Eric "Rick" A. Roberts sensei, 4th dan.  
 : Rick began his training in Aikido in 2000, and began his association with Kimori Dojo in 2002.  Rick also holds the rank of 4th dan, yondan, in Shotokan Karate through Pacific Coast Karate-Do.
@@ -27,6 +23,10 @@ Eric Norige, 4th dan.
 : Eric started training Aikido in 2002 under Freeman Sensei of Three Rivers Aikido in St. Louis, MO and has trained in a variety of Aikikai styles including Tenshin and Birankai.  He joined Kimori dojo in 2014 and was honored with his 2nd-4th dan from Sawada Shihan. He most enjoys being upside down (midflight) and sharing this joy with others.
 
 # Notable past members
+
+![Sae Yamada](/assets/img/Yamada.jpg){: height="250"}
+Sae Yamada, 5th dan
+:  Sae began her Aikido journey under Jun Yamada Shihan in Sarawak, Malaysia back in 1982.  While attending Keio University (Shonan Fujisawa Campus) in Tokyo in 1993, she established the Aikido Club. In 2018, Sae joined Kimori Dojo upon migrating to the States.
 
 ![Tony Lam](/assets/img/Lam.jpg){: height="250"}
 Tony Lam sensei, 3rd dan.  

@@ -104,8 +104,6 @@ Discuss any injuries or recent surgery with your instructor. Some techniques can
 
 ### Who teaches at Kimori Dojo?
 Our instructors are highly-ranked practitioners with decades of combined experience:
-- Matsuoka Hiroshi sensei (6th dan) - Head instructor
-- Sae Yamada (5th dan)
 - Eric Roberts (4th dan)
 - Eric Norige (4th dan)
 
