@@ -23,8 +23,8 @@ Eric "Rick" A. Roberts sensei, 4th dan.
 : Rick began his training in Aikido in 2000, and began his association with Kimori Dojo in 2002.  Rick also holds the rank of 4th dan, yondan, in Shotokan Karate through Pacific Coast Karate-Do.
 
 ![Eric Norige](/assets/img/Norige.jpg){: height="250"}
-Eric Norige, 3rd dan.  
-: Eric started training Aikido in 2002 under Freeman Sensei of Three Rivers Aikido in St. Louis, MO and has trained in a variety of Aikikai styles including Tenshin and Birankai.  He joined Kimori dojo in 2014 and was honored with his 2nd and 3rd dan from Sawada Shihan. He most enjoys being upside down (midflight) and sharing this joy with others.
+Eric Norige, 4th dan.  
+: Eric started training Aikido in 2002 under Freeman Sensei of Three Rivers Aikido in St. Louis, MO and has trained in a variety of Aikikai styles including Tenshin and Birankai.  He joined Kimori dojo in 2014 and was honored with his 2nd-4th dan from Sawada Shihan. He most enjoys being upside down (midflight) and sharing this joy with others.
 
 # Notable past members
 
