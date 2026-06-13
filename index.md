@@ -6,13 +6,15 @@ css:
 ---
 
 {: .hero-section }
+<div class="hero-badge">Traditional Aikido • Beginner-friendly • Silicon Valley</div>
 # Discover Aikido at Kimori Dojo
 
 {: .hero-subtitle }
-Transform yourself through the art of harmony and non-resistance. Learn to neutralize conflict with grace, not force.
+Train with calm, confidence, and authentic Aikikai technique in a welcoming dojo built for new members and busy professionals.
 
 {: .hero-cta }
 [View Our Classes](/classes){: .btn .btn-primary }
+[Start as a Beginner](/beginners){: .btn .btn-secondary }
 
 ## Quick Stats
 
@@ -30,7 +32,20 @@ Aikido is a traditional Japanese martial art that emphasizes harmony and non-res
 
 Kimori Dojo SVB is the Silicon Valley branch of Toshiharu Sawada's Ô-mei Kai Kimori Dojo, operating under Aikikai (the international aikido headquarters). We maintain the highest standards of authentic aikido training with instructors of 4th-8th dan rank.
 
-## Why Join Kimori Dojo?
+## Why New Members Choose Kimori Dojo
+
+{: .feature-grid }
+- **Beginner-friendly coaching**
+  No previous martial arts experience is required. We teach fundamentals clearly, safely, and with respect for every body type and pace.
+
+- **Authentic Aikikai lineage**
+  Train under instructors connected to the international Aikikai tradition, with a strong focus on precision, balance, and calm control.
+
+- **A welcoming community**
+  Whether you are looking for confidence, fitness, or a meaningful practice, our dojo encourages steady progress in a supportive environment.
+
+- **Built for busy adults**
+  Regular weekly classes make it easy to fit Aikido into your schedule and build lasting momentum.
 
 {: .benefits-grid }
 - **Master Instructors**
