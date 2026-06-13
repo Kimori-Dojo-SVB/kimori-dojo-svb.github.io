@@ -1,0 +1,23 @@
+{% if site.facebook-page or site.facebook_page %}
+  {% assign fb_page = site.facebook-page | default: site.facebook_page %}
+  <section class="facebook-feed-section">
+    <div class="facebook-feed-header">
+      <h2>Latest from Facebook</h2>
+      <p>See recent dojo updates, events, and community posts from our Facebook page.</p>
+    </div>
+
+    <div class="facebook-feed-card">
+      <div class="fb-page"
+           data-href="https://www.facebook.com/{{ fb_page }}"
+           data-tabs="timeline"
+           data-width="500"
+           data-height="520"
+           data-small-header="false"
+           data-adapt-container-width="true"
+           data-hide-cover="false"
+           data-show-facepile="true"></div>
+    </div>
+  </section>
+
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v20.0"></script>
+{% endif %}

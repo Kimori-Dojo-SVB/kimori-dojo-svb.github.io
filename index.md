@@ -59,3 +59,5 @@ Beginners are always welcome. No prior martial arts experience necessary.
 [View Class Schedule](/classes){: .btn .btn-primary }
 [For Beginners](/beginners){: .btn .btn-secondary }
 [Contact Us](/contact){: .btn .btn-accent }
+
+{% include facebook-feed.html %}

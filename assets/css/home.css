@@ -163,6 +163,33 @@ h2 {
   margin: 0;
 }
 
+/* Facebook Feed Section */
+.facebook-feed-section {
+  margin: 48px 0 24px;
+}
+
+.facebook-feed-header {
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.facebook-feed-header h2 {
+  margin-bottom: 8px;
+}
+
+.facebook-feed-header p {
+  color: #555;
+  margin-top: 0;
+}
+
+.facebook-feed-card {
+  background: linear-gradient(180deg, #ffffff 0%, #f7f8fc 100%);
+  border: 1px solid #e5e9f2;
+  border-radius: 18px;
+  padding: 18px;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+}
+
 /* CTA Buttons Section */
 .cta-buttons {
   text-align: center;

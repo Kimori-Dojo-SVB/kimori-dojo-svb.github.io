@@ -46,6 +46,9 @@ social-network-links:
   email: "kimoridojo@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: kimoridojo
+
+# Facebook Page plugin settings for the homepage feed
+facebook-page: kimoridojo
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
