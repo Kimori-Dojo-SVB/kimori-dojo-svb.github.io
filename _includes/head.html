@@ -127,8 +127,10 @@
   {% else %}
   <meta name="twitter:card" content="summary">
   {% endif %}
+  {% if site.social-network-links.twitter %}
   <meta name="twitter:site" content="@{{ site.social-network-links.twitter }}">
   <meta name="twitter:creator" content="@{{ site.social-network-links.twitter }}">
+  {% endif %}
 
   <meta property="twitter:title" content="{{ title }}">
   <meta property="twitter:description" content="{{ description }}">
@@ -136,6 +138,31 @@
   {% if img != "" %}
   <meta name="twitter:image" content="{{ img | absolute_url }}">
   {% endif %}
+
+  <!-- Local business structured data (schema.org) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsActivityLocation",
+    "name": "Kimori Dojo SVB",
+    "description": "Traditional Aikikai aikido dojo in Sunnyvale, California offering beginner-friendly adult aikido training.",
+    "url": "https://kimoridojo.com",
+    "image": "{{ site.avatar | absolute_url }}",
+    "email": "{{ site.social-network-links.email }}",
+    "sameAs": [
+      {% if site.social-network-links.facebook %}"https://facebook.com/{{ site.social-network-links.facebook }}"{% endif %}
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sunnyvale",
+      "addressRegion": "CA",
+      "addressCountry": "US"
+    },
+    "sport": "Aikido",
+    "openingHours": ["Th 18:00-19:30", "Sa 16:00-17:30", "Su 14:00-15:30"],
+    "priceRange": "$$"
+  }
+  </script>
 
   {% include matomo.html %}
 
