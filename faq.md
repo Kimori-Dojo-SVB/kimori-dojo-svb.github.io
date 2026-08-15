@@ -46,10 +46,10 @@ Absolutely! Visitors are welcome to watch a class to get a feel for what we do. 
 ## Classes & Schedules
 
 ### When do you train?
-Thurasday evenings, and Saturdayand Sunday afternoons. [See full schedule](/classes).
+Thursday evenings, and Saturday and Sunday afternoons. [See full schedule](/classes).
 
 ### Where do you train?
-Sunnyvale, California. [See location details](/classes).
+Sunnyvale, California. We don't publicly list our exact street address to preserve the dojo's calm, private atmosphere, but we're happy to share it with prospective students. [Contact us](/contact) to get the address and arrange a visit. [See schedule](/classes).
 
 ### How long is a typical class?
 90 minutes, which includes warm-up, instruction, partner practice, and cool-down.
