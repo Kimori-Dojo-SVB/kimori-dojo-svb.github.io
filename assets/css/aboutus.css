@@ -25,24 +25,36 @@
   margin-top: 1.5rem;
 }
 
-/* Definition lists become member cards */
-.aboutus-page dl {
+/* Member grid: each person is one self-contained card */
+.aboutus-page .members {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.75rem;
+  gap: 2.5rem;
   margin: 0 0 2.5rem;
 }
 
-.aboutus-page dl dt {
-  margin: 0;
-}
-
-/* The image wrapper */
-.aboutus-page dl dt:first-of-type {
+/* Each member card keeps its image, name, and description together */
+.aboutus-page .member {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
 }
 
-.aboutus-page dl dt img {
+/* The definition list inside each member */
+.aboutus-page .member dl {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* The photo */
+.aboutus-page .member dl dt:first-of-type {
+  margin: 0;
+}
+
+.aboutus-page .member dl dt img {
   width: 100%;
   max-width: 260px;
   height: auto;
@@ -54,24 +66,22 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.aboutus-page dl dt img:hover {
+.aboutus-page .member dl dt img:hover {
   transform: translateY(-0.25rem) scale(1.02);
   box-shadow: 0 0.9rem 2rem rgba(0, 0, 0, 0.25);
 }
 
 /* The name */
-.aboutus-page dl dt:nth-of-type(2) {
-  text-align: center;
+.aboutus-page .member dl dt:nth-of-type(2) {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
   font-size: 1.15rem;
   color: #2c3e50;
-  margin-top: 1rem;
+  margin: 1rem 0 0;
 }
 
 /* The description */
-.aboutus-page dl dd {
-  text-align: center;
+.aboutus-page .member dl dd {
   margin: 0.5rem 0 0;
   color: #555;
   font-size: 0.98rem;
@@ -80,8 +90,8 @@
 
 /* Responsive tweaks */
 @media (max-width: 767px) {
-  .aboutus-page dl {
+  .aboutus-page .members {
     grid-template-columns: 1fr;
-    gap: 2rem;
+    gap: 2.5rem;
   }
 }
