@@ -21,9 +21,9 @@ All classes are 90 minutes and include warm-up, technique instruction, and partn
 **Kimori Dojo SVB**  
 Sunnyvale, California
 
-[Get Directions](#)
+Our exact training address isn't publicly listed. We're a members-focused dojo that values a calm, private training space, so we share the street address with prospective students directly.
 
-We provide a welcoming, clean training space dedicated to authentic aikido practice. Visitors are always welcome to observe a class before joining.
+**Want to visit or observe a class?** Please [contact us](/contact) and we'll be happy to share the address, confirm the schedule, and welcome you. There's no obligation — observers and beginners are always welcome.
 
 ## What to Bring
 
