@@ -51,7 +51,7 @@ Aikido is one of the safest martial arts. We practice with a partner who control
 Aikido takes time to develop real skill. Most practitioners feel confident in practical applications after 1-2 years of consistent training. However, confidence and body awareness improvements start from day one.
 
 ### "What's the schedule?"
-[See our Classes & Training page](/classes) for the current schedule. We train Monday, Wednesday, and Saturday evenings. Most people start with 1-2 classes per week and gradually increase.
+[See our Classes & Training page](/classes) for the current schedule. We train Thursday evenings and Saturday and Sunday afternoons. Most people start with 1-2 classes per week and gradually increase.
 
 ### "How much does it cost?"
 Pricing and membership options are customized for different needs. [Contact us](/contact) for current rates.
