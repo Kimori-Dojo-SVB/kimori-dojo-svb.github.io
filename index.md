@@ -5,8 +5,9 @@ css:
   - /assets/css/home.css
 ---
 
-{: .hero-section }
+<div class="hero-section" markdown="1">
 <div class="hero-badge">Traditional Aikido • Beginner-friendly • Silicon Valley</div>
+
 # Discover Aikido at Kimori Dojo
 
 {: .hero-subtitle }
@@ -15,6 +16,7 @@ Train with calm, confidence, and authentic Aikikai technique in a welcoming dojo
 {: .hero-cta }
 [View Our Classes](/classes){: .btn .btn-primary }
 [Start as a Beginner](/beginners){: .btn .btn-secondary }
+</div>
 
 ## Quick Stats
 
