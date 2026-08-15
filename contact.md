@@ -20,7 +20,7 @@ We typically respond to inquiries within 24 hours.
 
 Please fill out the form below and we'll get back to you shortly.
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xzbwdoag" method="post">
+<form id="my-form" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xzbwdoag" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
